@@ -1,0 +1,33 @@
+body{
+  background-color: lightgreen;
+
+  font-family: cursive;
+
+
+}
+
+h1{
+  font-size: x-large;
+  text-align: center;
+}
+
+p{
+  line-height: 1.75em;
+}
+
+
+P.pizzapie{
+  font-style: italic;
+  text-decoration: overline;
+  text-transform: capitalize;
+  text-decoration-color: yellow;
+  text-decoration-style: wavy;
+
+}
+
+p.bigdawg{
+  text-indent: 30px;
+  font-weight: bolder;
+  text-transform:  uppercase;
+  letter-spacing: 3px;
+}

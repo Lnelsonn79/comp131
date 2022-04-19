@@ -1,0 +1,15 @@
+h1{
+  color: purple;
+  font-size: 69px;
+}
+body{
+  background-color: powderblue;
+}
+
+li{
+  border: dotted;  color: yellow;
+}
+p{
+  font-family: courier; color: violet;
+  font-size: 30px;
+}
